@@ -6,12 +6,14 @@
     <string name="payment_method">Payment Method</string>
     <string name="vegan_option">Vegan Option Required</string>
     <string name="reservation_time">Reservation Time</string>
-    <string name="reserve_button">Reserve Table</string>
+    <string name="reservation_date">Reservation Date</string>
+    <string name="reserve_button">Reserve Seats</string>
     <string name="confirm_title">Confirm Reservation</string>
     <string name="summary_name">Guest: %1$s</string>
     <string name="summary_seats">Seats: %1$d</string>
     <string name="summary_payment">Payment: %1$s</string>
     <string name="summary_time">Time: %1$s</string>
+    <string name="summary_date">Date: %1$s</string>
     <string name="summary_vegan">Vegan: %1$s</string>
     <string name="confirm_button">Confirm</string>
     <string name="yes">Yes</string>
@@ -22,4 +24,32 @@
         <item>@string/payment_cash</item>
         <item>@string/payment_credit</item>
     </string-array>
+    
+    <string name="menu_title">Interactive Menu</string>
+    <string name="food_section">Food</string>
+    <string name="drink_section">Drinks</string>
+    
+    <string name="burger_name">Double Cheeseburger</string>
+    <string name="burger_desc">Juicy double beef patty with extra cheese.</string>
+    <string name="burger_price">$12.99</string>
+    
+    <string name="pizza_name">Classic Margherita</string>
+    <string name="pizza_desc">Fresh mozzarella, tomatoes, and basil.</string>
+    <string name="pizza_price">$14.50</string>
+
+    <string name="bowl_name">Vegan Buddha Bowl</string>
+    <string name="bowl_desc">Fresh kale, chickpeas, avocado and tahini.</string>
+    <string name="bowl_price">$13.50</string>
+
+    <string name="salad_name">Quinoa Salad</string>
+    <string name="salad_desc">Organic quinoa with roasted vegetables.</string>
+    <string name="salad_price">$11.25</string>
+    
+    <string name="soda_name">Sparkling Soda</string>
+    <string name="soda_desc">Cold and refreshing fizzy drink.</string>
+    <string name="soda_price">$2.50</string>
+    
+    <string name="coffee_name">Artisan Coffee</string>
+    <string name="coffee_desc">Premium roasted coffee beans brew.</string>
+    <string name="coffee_price">$3.75</string>
 </resources>
