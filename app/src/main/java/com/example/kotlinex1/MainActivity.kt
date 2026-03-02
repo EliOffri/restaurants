@@ -52,9 +52,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun showConfirmationDialog() {
         val dialogBinding = DialogConfirmationBinding.inflate(layoutInflater)
-        val dialog = AlertDialog.Builder(this)
-            .setView(dialogBinding.root)
-            .create()
+        val builder = AlertDialog.Builder(this)
+        builder.setView(dialogBinding.root)
+        val dialog = builder.create()
 
         val name = binding.etName.text.toString()
         val seats = binding.sbSeats.progress
