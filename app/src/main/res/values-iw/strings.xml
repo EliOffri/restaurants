@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הזמנת גורמה</string>
+    <string name="app_title">הזמנת שולחן</string>
+    <string name="customer_name">שם</string>
+    <string name="seats_label">מספר מקומות: %1$d</string>
+    <string name="payment_method">אמצעי תשלום</string>
+    <string name="vegan_option">דרושה אפשרות טבעונית</string>
+    <string name="reservation_time">שעת הזמנה</string>
+    <string name="reservation_date">תאריך הזמנה</string>
+    <string name="reserve_button">הזמן מקומות</string>
+    <string name="confirm_title">אישור הזמנה</string>
+    <string name="summary_name">אורח: %1$s</string>
+    <string name="summary_seats">מקומות: %1$d</string>
+    <string name="summary_payment">תשלום: %1$s</string>
+    <string name="summary_time">שעה: %1$s</string>
+    <string name="summary_date">תאריך: %1$s</string>
+    <string name="summary_vegan">טבעוני: %1$s</string>
+    <string name="confirm_button">אישור</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="payment_cash">מזומן</string>
+    <string name="payment_credit">כרטיס אשראי</string>
+    <string-array name="payment_methods">
+        <item>@string/payment_cash</item>
+        <item>@string/payment_credit</item>
+    </string-array>
+
+    <string name="menu_title">תפריט אינטראקטיבי</string>
+    <string name="food_section">אוכל</string>
+    <string name="drink_section">שתייה</string>
+
+    <string name="burger_name">צ\'יזבורגר כפול</string>
+    <string name="burger_desc">קציצת בקר כפולה ועסיסית עם תוספת גבינה.</string>
+    <string name="burger_price">$12.99</string>
+
+    <string name="pizza_name">מרגריטה קלאסית</string>
+    <string name="pizza_desc">מוצרלה טרייה, עגבניות ובזיליקום.</string>
+    <string name="pizza_price">$14.50</string>
+
+    <string name="bowl_name">קערת בודהה טבעונית</string>
+    <string name="bowl_desc">קייל טרי, חומוס, אבוקדו וטחינה.</string>
+    <string name="bowl_price">$13.50</string>
+
+    <string name="salad_name">סלט קינואה</string>
+    <string name="salad_desc">קינואה אורגנית עם ירקות קלויים.</string>
+    <string name="salad_price">$11.25</string>
+
+    <string name="soda_name">סודה תוססת</string>
+    <string name="soda_desc">משקה מוגז קר ומרענן.</string>
+    <string name="soda_price">$2.50</string>
+
+    <string name="coffee_name">קפה ארטיזנלי</string>
+    <string name="coffee_desc">חליטת פולי קפה קלויים איכותיים.</string>
+    <string name="coffee_price">$3.75</string>
+</resources>
