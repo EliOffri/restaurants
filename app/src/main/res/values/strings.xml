@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gourmet Reservation</string>
+    <string name="customer_name">Name</string>
+    <string name="seats_label">Number of Seats: %1$d</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="vegan_option">Vegan Option Required</string>
+    <string name="reservation_time">Reservation Time</string>
+    <string name="reserve_button">Reserve Table</string>
+    <string name="confirm_title">Confirm Reservation</string>
+    <string name="summary_name">Guest: %1$s</string>
+    <string name="summary_seats">Seats: %1$d</string>
+    <string name="summary_payment">Payment: %1$s</string>
+    <string name="summary_time">Time: %1$s</string>
+    <string name="summary_vegan">Vegan: %1$s</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="payment_cash">Cash</string>
+    <string name="payment_credit">Credit Card</string>
+    <string-array name="payment_methods">
+        <item>@string/payment_cash</item>
+        <item>@string/payment_credit</item>
+    </string-array>
+</resources>
